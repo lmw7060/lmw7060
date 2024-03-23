@@ -17,15 +17,6 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 ## 🛠 IDE  
 ![a](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![b](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![c](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
-　  
- ## 📅 Schedule  
- 
- <img src="img/schedule1.PNG" width="500" height="500">　    
- 
- <img src="img/schedule2.PNG" width="500" height="150">　
-
-
 　 
 ## 💼 Projects
  #### 1. 스마트 
@@ -54,7 +45,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  역 할 : 팀장　　　　　　　　　　　　　    
  기 간 : 2023. 12. 25 ~ 2023. 12. 29　  
  기 술 : C#, SQL　　　　　　　　　　    
-```
+ ```
       
 
   
@@ -74,7 +65,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  역 할 : 팀장　　　　　　　　　　　　　　　　　　　　　　　　　　　   
  기 간 : 2024. 02. 12 ~ 2024. 02. 22　　　　　　　　　　　　　　　  
  기 술 : Python, Selenium, Natural Language Processing　　　　　　
-```
+ ```
       
 
   
@@ -95,7 +86,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  역 할 : 소프트웨어 팀장　　　　　　　   
  기 간 : 2024. 02. 26 ~ 2024. 03. 08  
  기 술 : C, RTOS, STM32, UltraSonic　
-```
+ ```
       
 
   
@@ -128,6 +119,6 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 　
 ## 📞 Contact  
-#### 📧 Email : while@kakao.com  
+#### 📧 Email : dlaalsdn7@naver.com  
 
 </div>
