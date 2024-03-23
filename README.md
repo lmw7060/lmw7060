@@ -1,5 +1,4 @@
 <div align="center"> 
- rxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=c4ff0e&text=PORTFOLIO&section=header&reversal=false&textBg=false&animation=twinkling&desc=mylittlebluebird&descSize=30&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
 
 　
@@ -31,10 +30,10 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 ## 💼 Projects
  #### 1. 스마트 
  ```
- 설 명 : ATmega128A를 이용한 주차장 설계  
+ 설 명 : ATmega128A를 이용한 스마트 독서실 설계  
  역 할 : 팀원　　　　　　　　　　　　　　　  
  기 간 : 2023. 11. 20 ~ 2023. 11. 28　　  
- 기 술 : C, HTML, PHP, SQL　　　　　　　　　
+ 기 술 : C, HTML, SQL　　　　　　　　　
  ```
       
 
@@ -49,9 +48,9 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 # 　  
 
- #### 2. 북쪽지뢰찾기
+ #### 2. 그림 맞추기 게임
  ```
- 설 명 : Windows 지뢰찾기 클론 코딩　　  
+ 설 명 : 무작위 단어에 맞춰 그림을 그리며 단어를 맞추는 게임　　  
  역 할 : 팀장　　　　　　　　　　　　　    
  기 간 : 2023. 12. 25 ~ 2023. 12. 29　  
  기 술 : C#, SQL　　　　　　　　　　    
@@ -69,9 +68,9 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 # 　  
 
- #### 3. 오마카세
+ #### 3. CAFEIN 중동
  ```
- 설 명 : 네이버 지도 파주운정지역 리뷰 기반 맛집 키워드 검색 시스템   
+ 설 명 : 네이버 지도에 있는 여러지역의 카페 리뷰 기반 맛집 키워드 검색 시스템   
  역 할 : 팀장　　　　　　　　　　　　　　　　　　　　　　　　　　　   
  기 간 : 2024. 02. 12 ~ 2024. 02. 22　　　　　　　　　　　　　　　  
  기 술 : Python, Selenium, Natural Language Processing　　　　　　
