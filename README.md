@@ -69,7 +69,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  ![gif2](img/find_mine_in_north.gif)   
 
 
- <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ <a href="https://github.com/lmw7060/C-gui/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
 
 
@@ -89,7 +89,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  ![gif3](img/omakase.gif)   
 
 
- <a href="https://github.com/mylittlebluebird/omakase">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ <a href="https://github.com/lmw7060/cafe_recom">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
 
 
@@ -110,7 +110,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  ![gif4](img/gangsung.gif)   
 
 
- <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ <a href="https://github.com/lmw7060/-autonomous-driving/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
 
 
