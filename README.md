@@ -19,10 +19,10 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 　 
 ## 💼 Projects
- #### 1. 스마트 
+ #### 1. 스마트 독서실
  ```
  설 명 : ATmega128A를 이용한 스마트 독서실 설계  
- 역 할 : 팀원　　　　　　　　　　　　　　　  
+ 역 할 : 팀장　　　　　　　　　　　　　　　  
  기 간 : 2023. 11. 20 ~ 2023. 11. 28　　  
  기 술 : C, HTML, SQL　　　　　　　　　
  ```
@@ -32,7 +32,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  ![gif1](img/iot_parking.gif)   
 
 
- <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ <a href="https://github.com/lmw7060//">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
   
 
 
