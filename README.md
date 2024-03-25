@@ -51,7 +51,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
  <a href="https://github.com/lmw7060//">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
   
-ppt:<url="https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0R">
+ppt url="https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0R"
 
 
 # 　  
