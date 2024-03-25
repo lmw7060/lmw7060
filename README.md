@@ -51,7 +51,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
  <a href="https://github.com/lmw7060//">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
   
-
+ppt:<a href="https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0R">
 
 
 # 　  
@@ -71,12 +71,36 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
  <a href="https://github.com/lmw7060/C-gui/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-
+ppt:<a href="https://drive.google.com/drive/folders/1b-q9BlvJfEkvzT0N-DbIyglqsEPR-2m1">
 
 
 # 　  
 
- #### 3. CAFEIN 중독
+ #### 3. Shopping AI
+ ```
+ 설 명 : 크롤링을 이용하여 상품에 해당하는 카테고리를 확인하는 시스템   
+ 역 할 : 팀원　　　　　　　　　　　　　　　　　　　　　　　　　　　   
+ 기 간 : 2024. 01. 29 ~ 2024. 02. 12　　　　　　　　　　　　　　　  
+ 기 술 : Python, Selenium, Natural Language Processing　　　　　　
+ ```
+      
+
+  
+ ![gif3](img/omakase.gif)   
+
+
+ <a href="https://github.com/lmw7060/shopping_category_classification">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ 
+ppt:<a href="https://docs.google.com/presentation/d/1fE4MegFR5GKvOWnw2iWSgcUQMuOVpSXm/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true">
+
+　
+
+# 　  
+
+
+
+
+ #### 4. CAFEIN 중독
  ```
  설 명 : 네이버 지도에 있는 여러지역의 카페 리뷰 기반 맛집 키워드 검색 시스템   
  역 할 : 팀원　　　　　　　　　　　　　　　　　　　　　　　　　　　   
@@ -91,13 +115,13 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
  <a href="https://github.com/lmw7060/cafe_recom">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-
+ppt:<a href="https://docs.google.com/presentation/d/1bKLYF9DGZA5N8mqHZkIQmdUvJkUDi8O_/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true">
 
 　
 
 # 　  
 
- #### 4. 강성노조
+ #### 5. 강성노조
  ```
  설 명 : ADAS 자율주행 SW RC카 설계　  
  역 할 : 소프트웨어 팀원　　　　　　　   
