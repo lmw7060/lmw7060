@@ -51,7 +51,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
  <a href="https://github.com/lmw7060//">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
   
-ppt url="https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0R"
+ppt url = "https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0R"
 
 
 # 　  
@@ -71,7 +71,7 @@ ppt url="https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYeinA0
 
  <a href="https://github.com/lmw7060/C-gui/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-ppt:<a href="https://drive.google.com/drive/folders/1b-q9BlvJfEkvzT0N-DbIyglqsEPR-2m1">
+ppt url = "https://drive.google.com/drive/folders/1b-q9BlvJfEkvzT0N-DbIyglqsEPR-2m1"
 
 
 # 　  
@@ -91,7 +91,7 @@ ppt:<a href="https://drive.google.com/drive/folders/1b-q9BlvJfEkvzT0N-DbIyglqsEP
 
  <a href="https://github.com/lmw7060/shopping_category_classification">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-ppt:<a href="https://docs.google.com/presentation/d/1fE4MegFR5GKvOWnw2iWSgcUQMuOVpSXm/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true">
+ppt url = "https://docs.google.com/presentation/d/1fE4MegFR5GKvOWnw2iWSgcUQMuOVpSXm/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true"
 
 　
 
@@ -115,7 +115,7 @@ ppt:<a href="https://docs.google.com/presentation/d/1fE4MegFR5GKvOWnw2iWSgcUQMuO
 
  <a href="https://github.com/lmw7060/cafe_recom">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-ppt:<a href="https://docs.google.com/presentation/d/1bKLYF9DGZA5N8mqHZkIQmdUvJkUDi8O_/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true">
+ppt url = "https://docs.google.com/presentation/d/1bKLYF9DGZA5N8mqHZkIQmdUvJkUDi8O_/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true"
 
 　
 
@@ -136,7 +136,7 @@ ppt:<a href="https://docs.google.com/presentation/d/1bKLYF9DGZA5N8mqHZkIQmdUvJkU
 
  <a href="https://github.com/lmw7060/-autonomous-driving/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
  
-
+ppt url = "https://docs.google.com/presentation/d/12UreXAKHU46365x5b5wYW66NgfOmK9eh/edit?usp=drive_web&ouid=116000084399377430784&rtpof=true"
 
 　  
 
