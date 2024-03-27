@@ -72,7 +72,7 @@ ppt url = "https://docs.google.com/presentation/d/1fE4MegFR5GKvOWnw2iWSgcUQMuOVp
       
 
   
- ![gif3](img/omakase.gif)   
+ ![gif3](img/cafe1.gif)   ![gif3](img/cafe2.gif)   
 
 
  <a href="https://github.com/lmw7060/cafe_recom">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
