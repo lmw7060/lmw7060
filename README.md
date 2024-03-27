@@ -93,7 +93,7 @@ ppt url = "https://docs.google.com/presentation/d/1bKLYF9DGZA5N8mqHZkIQmdUvJkUDi
       
 
   
- ![gif4](img/gangsung.gif)   
+ ![gif4](img/kangsung.gif)   
 
 
  <a href="https://github.com/lmw7060/-autonomous-driving/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
