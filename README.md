@@ -133,8 +133,9 @@ ppt url = "https://drive.google.com/drive/folders/1CivjTgAhE__f-mquooBbi00rfYein
 
 
 
-
 # 　  
+
+
 
  #### 2. 그림 맞추기 게임
  ```
@@ -155,6 +156,49 @@ ppt url = "https://drive.google.com/drive/folders/1b-q9BlvJfEkvzT0N-DbIyglqsEPR-
 
 
 
+#
+
+
+#### 3. 뉴스 헤드라인 크롤링
+ ```
+ 설 명 : 뉴스 헤드라인을 크롤링하여 자주 나오는 단어를 확인하는 시스템
+ 역 할 : 팀원　　　　　　　　　　　　    
+ 기 간 : 2024. 1. 22 ~ 2024. 1. 29　  
+ 기 술 : Python, Selenium, Natural Language Processing　　　　　　　　　　    
+ ```
+      
+
+  
+ ![gif2](img/find_mine_in_north.gif)   
+
+
+ <a href="https://github.com/lmw7060/news_category_classification_intel_2/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+ 
+
+
+
+#
+
+
+
+#### 4. 영화 추천 어플
+ ```
+ 설 명 : 영화이름과 리뷰를 크롤링하여 추천하는 시스템　　  
+ 역 할 : 팀장　　　　　　　　　　　　　    
+ 기 간 : 2024. 2. 05 ~ 2024. 2. 12　  
+ 기 술 : Python, Selenium, Natural Language Processing　　　　　　　　    
+ ```
+      
+
+  
+ ![gif2](img/find_mine_in_north.gif)   
+
+
+ <a href="https://github.com/lmw7060/movie_for_you_intel_mw/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
+
+#
 
    
 
