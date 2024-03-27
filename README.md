@@ -36,10 +36,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 　 
 ## 💼 Projects
- 
-
-
-# 　  
+  　  
 
  #### 1. Shopping AI
  ```
@@ -110,6 +107,7 @@ ppt url = "https://docs.google.com/presentation/d/12UreXAKHU46365x5b5wYW66NgfOmK
 
 
 ## ♣️ Mini Projects
+
 
 
 #### 1. 스마트 독서실
